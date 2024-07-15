@@ -27,7 +27,7 @@
       {
         "id": 4,
         "nome": "Camiseta Star Wars",
-        "imagem": "https://m.media-amazon.com/images/I/71YvP6u7jHL._AC_UL1500_.jpg",
+        "imagem": "https://www.veinerd.com/uploads/products/large/starwars-1.jpg",
         "preco": 79.99,
         "categoria": "Vestuário",
         "quantidade": 20
@@ -35,7 +35,7 @@
       {
         "id": 5,
         "nome": "Funko Pop Batman",
-        "imagem": "https://m.media-amazon.com/images/I/71B2oc9luML._AC_SY679_.jpg",
+        "imagem": "https://m.media-amazon.com/images/I/71HwUvZPr3L._AC_SX569_.jpg",
         "preco": 89.99,
         "categoria": "Colecionáveis",
         "quantidade": 30
@@ -43,7 +43,7 @@
       {
         "id": 6,
         "nome": "Caneca Game of Thrones",
-        "imagem": "https://m.media-amazon.com/images/I/71Ikhe8HE0L._AC_SL1500_.jpg",
+        "imagem": "https://m.media-amazon.com/images/I/71L5SyJAXnL.__AC_SY300_SX300_QL70_ML2_.jpg",
         "preco": 39.99,
         "categoria": "Utilidades",
         "quantidade": 25
@@ -51,7 +51,7 @@
       {
         "id": 7,
         "nome": "Mousepad Overwatch",
-        "imagem": "https://m.media-amazon.com/images/I/81v3of7sKHL._AC_SL1500_.jpg",
+        "imagem": "https://cdn.dooca.store/205/products/whatsapp-image-2021-08-31-at-115026-am-1_1080x1080+fill_ffffff.jpeg?v=1630421528",
         "preco": 49.99,
         "categoria": "Acessórios",
         "quantidade": 18
@@ -59,7 +59,7 @@
       {
         "id": 8,
         "nome": "Poster Stranger Things",
-        "imagem": "https://m.media-amazon.com/images/I/71WsnFkb27L._AC_SL1500_.jpg",
+        "imagem": "https://m.media-amazon.com/images/I/71abicLizuL.__AC_SX300_SY300_QL70_ML2_.jpg",
         "preco": 29.99,
         "categoria": "Decoração",
         "quantidade": 40
@@ -67,7 +67,7 @@
       {
         "id": 9,
         "nome": "Livro Senhor dos Anéis",
-        "imagem": "https://m.media-amazon.com/images/I/91b0C2YNSrL.jpg",
+        "imagem": "https://m.media-amazon.com/images/I/5143HjgZeaL._SY425_.jpg",
         "preco": 99.99,
         "categoria": "Livros",
         "quantidade": 12
